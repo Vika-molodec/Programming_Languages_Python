@@ -1,0 +1,5 @@
+[
+  {"id": 1, "title": "Python", "category": "программирование", "amount": 4, "completed": false},
+  {"id": 2, "title": "Интегралы", "category": "математика", "amount": 2, "completed": true},
+  {"id": 3, "title": "Словари Python", "category": "программирование", "amount": 3, "completed": false}
+]
